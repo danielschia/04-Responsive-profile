@@ -45,7 +45,7 @@ a:hover {
     padding: 30px;
     border-radius: 4px;
     box-shadow: 0 10px 30px rgba(0,0,0,.1);
-    width: 700px;
+    width: 100%;
     margin: 10px auto;
 }
 
@@ -60,7 +60,7 @@ a:hover {
 
 #main-pic {
     border-radius: 50%;
-    width: 300px;
+    width: 40%;
 }
 
 @media (max-width: 720px) {
